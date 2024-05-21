@@ -1,0 +1,3 @@
+
+thirdparty:
+    endpoint: http://wiremock:8080/api/thirdparty/
