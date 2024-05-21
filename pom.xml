@@ -124,7 +124,6 @@
 							<systemPropertyVariables>
 								<service.name>${project.name}</service.name>
 								<wiremock.enabled>true</wiremock.enabled>
-								<wiremock.mapped.port>8080</wiremock.mapped.port>
 							</systemPropertyVariables>
 						</configuration>
 					</plugin>
